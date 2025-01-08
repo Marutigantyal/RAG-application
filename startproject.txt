@@ -1,0 +1,13 @@
+# first open vs code 
+# check conda is there or not in a terminal
+
+conda -V
+
+# if you want to create new envirnoment for this project 
+   # first deactivate conda 
+   conda decativate
+   # create new envirnoment
+   conda create --name vidyenv
+# create requirment.txt file and list your liblibraries useing in your project as requirment
+# run 
+

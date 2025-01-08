@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+pandas
+langchain
+llama-index
+sentence-transformers
+pinecone-client
+faiss-cpu
+gradio
+streamlit
