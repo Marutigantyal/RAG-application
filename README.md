@@ -17,3 +17,5 @@ conda -V
   # code for this in conda 
   conda env config vars set PINECONE_API_KEY="past yor key here"
 # .csv file is created when you run the code no need to with this csvfile 
+# run main.py as 
+streamlit run main.py 
